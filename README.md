@@ -226,4 +226,4 @@ WinSPMBT is offered as a complete free version with all features and updates inc
 Start your tactical tank warfare journey today by downloading WinSPMBT! Join the action and lead your forces to victory!
 
 ---
-**Last updated:** 2026-10-17 22:08:11 UTC
+**Last updated:** 2026-10-18 00:47:36 UTC
